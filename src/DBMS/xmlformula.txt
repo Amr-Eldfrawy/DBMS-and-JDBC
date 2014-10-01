@@ -1,0 +1,43 @@
+												forumla for xml tables files 
+
+
+each tabel will have two types name.xml and schema file 
+
+////////////////////////////////////////////////////////////////
+name.xml 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  
+  <row>
+    <first_attribute>      </first_attribute>
+    <second_attribute>     </second_attribute>
+    .................
+    ..........
+    .................
+    
+  
+    
+ </row>
+ 
+ <row>
+    <first_attribute>      </first_attribute>
+    <second_attribute>     </second_attribute>
+    .................
+    ..........
+    .................
+    
+   
+  </row>
+  
+  </data>
+/////////////////////////////////////////////////////////////////////
+
+schema file in xml
+
+
+
+////////////////////////////////////////////////////////////////////
+
+
+

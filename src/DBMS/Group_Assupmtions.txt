@@ -1,0 +1,32 @@
+this file holds the assumption that all of us should build his code relative to it
+
+***** the queries :
+1- create database database_name
+2- create table table_name from database_name column_name column_type column_name column_type
+3- insert into table_name from database_name column_name data_1 column_name data_2
+4- select from table_name from database_name condition
+5- delete from table_name from database_name condition
+6- update from table_name from database_name condition data
+
+* for number 2&3 to entering undefined number of columns
+* omar is going to define class condition and condition will be a type that any one can use it not to change it
+
+***** Data types that we will support
+1 - integer
+2 - string
+3 - double
+
+*****linking between validation and the DBMS_Interface senario 
+ex :
+the statement "create database AlexFOE"
+after validation senario (it is valid of course !)
+i will have a DBMS object say DMBS_Object = new DBMS();
+then i will call DBMS_Object.creat_Database("AlexFOE");
+and the critical case will till now as i think 
+ a) number 3 in the queries 
+ 		DBMS_Object.insert_Into_Table(database_name,table_name,data[])
+ 		data[i] = pair_data
+ 		there will be getters to read from pair_data
+
+******** Condition is class holds 3 members data_1 -> column , operator, data_2 -> data
+i will send to dbms this condition as an object condition then the DBMS will evaluate it 

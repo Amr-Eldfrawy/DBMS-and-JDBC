@@ -1,0 +1,333 @@
+2013-12-06 20:05:26,718  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:05:26,718  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:05:26,718  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:05:26,718  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:05:26,718  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:05:26,718  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:05:26,828  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 20:06:43,581  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:06:43,581  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:06:43,581  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:06:43,581  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:06:43,581  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:06:43,581  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:06:43,644  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 20:12:42,975  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:12:42,975  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:12:42,975  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:12:42,975  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:12:42,975  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:12:42,991  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:12:43,053  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:13:22,989  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:13:22,989  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:13:22,989  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:13:23,005  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:13:23,005  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:13:23,005  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:13:23,051  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:13:33,379  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:13:33,379  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:13:33,379  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:13:33,379  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:13:33,379  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:13:33,379  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:13:33,441  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:13:42,676  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:13:42,692  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:13:42,692  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:13:42,692  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:13:42,692  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:13:42,692  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:13:42,754  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:14:00,866  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:14:00,866  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:14:00,866  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:14:00,866  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:14:00,866  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:14:00,881  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:14:00,944  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:15:16,198  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:15:16,198  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:15:16,198  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:15:16,198  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:15:16,198  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:15:16,198  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:15:16,276  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:13,965  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:16:13,965  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:16:13,965  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:16:13,981  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:16:13,981  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:16:13,981  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:16:13,981 ERROR [main] - JDBC.trymain.executeQuery 166 - java.sql.SQLException
+2013-12-06 20:16:30,923  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:16:30,923  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:16:30,923  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:16:30,938  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:16:30,938  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:16:30,938  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:16:30,985  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:16:30,985 ERROR [main] - JDBC.trymain.executeQuery 166 - java.sql.SQLException
+2013-12-06 20:16:40,875  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:16:40,875  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:16:40,875  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:16:40,875  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:16:40,875  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:16:40,875  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:16:40,938  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:16:40,938 ERROR [main] - JDBC.trymain.executeQuery 166 - java.sql.SQLException
+2013-12-06 20:16:59,237  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:16:59,237  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:16:59,252  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:16:59,252  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:16:59,252  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:16:59,252  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:16:59,299  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:16:59,346  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 20:17:13,947  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:17:13,947  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:17:13,947  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:17:13,963  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:17:13,963  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:17:13,963  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:17:14,010  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:14,057  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 20:17:42,137  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 20:17:42,137  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 20:17:42,137  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 20:17:42,137  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 20:17:42,152  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 20:17:42,152  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 20:17:42,199  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 20:17:42,261  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 20:17:42,277  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 21:12:37,115  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:12:37,119  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:12:37,122  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:12:37,125  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:12:37,126  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:12:37,127  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 21:12:37,187  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 21:12:37,203  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,204  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,204  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,204  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,204  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,205  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,205  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,205  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:37,205  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:12:37,207  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,208  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,208  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,208  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,208  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,208  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,208  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,209  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:37,209  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:12:54,780  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:12:54,785  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:12:54,787  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:12:54,791  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:12:54,791  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:12:54,792  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 21:12:54,856  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 21:12:54,874  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,874  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,874  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,874  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,875  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,875  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,875  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,875  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:12:54,875  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:12:54,877  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,878  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,878  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,878  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,878  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,878  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,879  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,879  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:12:54,879  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 21:13:07,885  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:13:07,887  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:13:07,890  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:13:07,893  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:13:07,893  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:13:07,895  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 21:13:07,961  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,961  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,961  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,961  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,961  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,962  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,962  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,962  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:07,962  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:13:07,962  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,964  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,965  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,965  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,965  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,965  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,965  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,966  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:07,966  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 21:13:22,932  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:13:22,935  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:13:22,937  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:13:22,940  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:13:22,941  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:13:22,942  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 21:13:23,018  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,018  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,019  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,019  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,019  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,020  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,020  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,020  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:23,021  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:13:23,021  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,025  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,025  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,025  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,025  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,026  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,026  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,026  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:23,026  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 21:13:46,534  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:13:46,537  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:13:46,539  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:13:46,543  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:13:46,543  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:13:46,545  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 21:13:46,611  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 21:13:46,636  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,636  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,636  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,637  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,637  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,637  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,637  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,637  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:46,637  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:13:46,640  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,640  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,640  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,640  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,641  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,641  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,641  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,641  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:46,641  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 21:13:57,412  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:13:57,415  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:13:57,417  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:13:57,421  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:13:57,421  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:13:57,423  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 21:13:57,486  INFO [main] - JDBC.trymain.executeQuery 154 - Executing Query()
+2013-12-06 21:13:57,503  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,503  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,503  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,503  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,504  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,504  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,504  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,504  INFO [main] - JDBC.trymain.next 42 - Next() in ResultSet
+2013-12-06 21:13:57,504  INFO [main] - JDBC.trymain.afterLast 90 - AfterLast()
+2013-12-06 21:13:57,506  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,507  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,507  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,507  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,507  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,507  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,507  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,508  INFO [main] - JDBC.trymain.previous 56 - Previous() in ResultSet
+2013-12-06 21:13:57,508  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 21:14:09,747  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 21:14:09,750  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 21:14:09,752  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 21:14:09,757  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 21:14:09,757  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 21:14:09,758  INFO [main] - JDBC.trymain.executeUpdate 174 - Executing Update()
+2013-12-06 21:14:09,767 ERROR [main] - JDBC.trymain.executeUpdate 182 - java.sql.SQLException
+2013-12-06 22:32:44,703  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 22:32:44,725  INFO [main] - JDBC.trymain.acceptsURL 34 - The Path of the given Directory Doesn't exists
+2013-12-06 22:32:44,725  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 22:35:39,384  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 22:35:39,388  INFO [main] - JDBC.trymain.acceptsURL 34 - The Path of the given Directory Doesn't exists
+2013-12-06 22:35:39,388  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 22:37:47,549  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 22:37:47,555  INFO [main] - JDBC.trymain.acceptsURL 34 - The Path of the given Directory Doesn't exists
+2013-12-06 22:40:08,906  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 22:40:08,908  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 22:40:08,910  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 22:40:08,914  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 22:40:08,914  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 22:40:08,915  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 22:40:08,917  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 22:40:30,901  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 22:40:30,904  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-06 22:40:30,906  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-06 22:40:30,910  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-06 22:40:30,911  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-06 22:40:30,912  INFO [main] - JDBC.trymain.execute 96 - Executing SQL STATEMENT
+2013-12-06 22:40:30,915  INFO [main] - JDBC.trymain.close 51 - Closing Connection
+2013-12-06 22:40:48,232  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-06 22:40:48,234  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists

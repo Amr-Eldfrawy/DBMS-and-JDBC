@@ -1,0 +1,18 @@
+2013-12-03 21:10:57,328 DEBUG [main] - log4j.main 8 - Test Message
+2013-12-03 21:14:56,638 ERROR [main] - log4j.main 12 - java.lang.Exception: New Exception
+2013-12-03 21:17:59,130 ERROR [main] - log4j.main 12 - java.lang.Exception: New Exception
+2013-12-03 21:18:17,797 ERROR [main] - log4j.main 12 - java.lang.Exception: New Exception
+2013-12-03 21:18:44,754 ERROR [main] - log4j.main 12 - java.lang.Exception: New Exception
+2013-12-03 21:27:44,228  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-03 21:28:59,180  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-03 21:28:59,196  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-03 21:34:04,470  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-03 21:34:04,475  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-03 21:34:04,481  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-03 21:34:04,513  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-03 21:36:24,373  INFO [main] - JDBC.trymain.acceptsURL 26 - Entered acceptsURL
+2013-12-03 21:36:24,379  INFO [main] - JDBC.trymain.acceptsURL 30 - The Path of the given Directory exists
+2013-12-03 21:36:24,386  INFO [main] - JDBC.trymain.connect 57 - Connected to the Directory Succesfully
+2013-12-03 21:36:24,393  INFO [main] - JDBC.trymain.UI 35 - YYYYAAARAB
+2013-12-03 21:36:24,394  INFO [main] - JDBC.trymain.createStatement 95 - Creating Statement...
+2013-12-03 21:36:24,497  INFO [main] - JDBC.trymain.close 51 - Closing Connection

@@ -1,0 +1,37 @@
+static functions that we will need from DBMS
+
+
+1 - boolean dbms.check_table_and_database(String database_name,String table_name)
+	this function first check if the database exists if not return false
+	then check if the table exists in the data base if not return false
+	
+2 - boolean dbms.check_column_is_valid(String database_name,String table_name,String column_name)
+	{
+		if(dbms.check_table_and_database(String database_name,String table_name))
+		{
+			then check the column is exited in this table that exists in the data base
+		}
+	}
+	
+3 - String dbms.get_column_type(String database,String table,String column)
+	 returns the type of the column{"string","double","integer"}  
+	/* and i will not send you invalid data here */
+	 
+4 - void dbms.insert_into_table(String database_name,String table_name,ArrayList<pair_Data> data)
+
+5 - void dbms.select_from_table(String database_name,String table_name,condition condition);
+
+6 - void dbms.delete_from_table(String database_name,String table_name,condition condition);
+
+7 - void dbms.update_from_table(String database_name,String table_name,condition condition,condition update);
+
+**** condition "AopB" ex:" name = ahmed " "age>20" 
+data_1 will be the column name 
+operator will hold the operator ">" or "<" or "="
+data_2 will be the data
+**** update is a special case from condition that the operator always "="
+
+
+
+amr test test 
+
